@@ -1,0 +1,5 @@
+.metadata/
+
+lab3/Debug/
+lab3/Release/
+*.launch
